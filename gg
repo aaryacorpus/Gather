@@ -1,0 +1,6 @@
+# Clone the repository
+git clone <your-repo-url>
+cd gather
+
+# Install dependencies
+npm install
