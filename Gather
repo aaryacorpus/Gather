@@ -1,0 +1,6 @@
+# Clone the repository
+git clone <https://lxrxrpwqdkjuvssblrwa.supabase.co>
+cd gather
+
+# Install dependencies
+npm install
